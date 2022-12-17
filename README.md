@@ -21,6 +21,9 @@ Hello `World!`
 
 Anime web [AnimeFLV](https://www3.animeflv.net/)
 
+- [] Tarea 1
+- [x] Tarea 2
+
 <!--
 **Nekko-Code/Nekko-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
