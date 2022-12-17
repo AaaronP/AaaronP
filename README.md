@@ -21,7 +21,7 @@ Hello `World!`
 
 Anime web [AnimeFLV](https://www3.animeflv.net/)
 
-- [] Tarea 1
+- [ ] Tarea 1
 - [x] Tarea 2
 
 <!--
