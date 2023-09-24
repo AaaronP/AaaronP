@@ -1,8 +1,11 @@
-### Hi there 👋
+## Desarrollador web y mobile
+### Actualmente aprendiendo
+- Jetpack compose
+- Kotlin
 
-## New Fullstack Web Developer
-### Currently Learning 
+### Con conocimiento en
 - Javascript
-- React
-- NextJs
-- Astro
+- Java
+- HTML - CSS
+- MySQL
+- Python
