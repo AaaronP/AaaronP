@@ -1,11 +1,8 @@
-## Desarrollador web y mobile
+## Desarrollador front-end web
 ### Actualmente aprendiendo
-- Jetpack compose
-- Kotlin
+- Python
 
 ### Con conocimiento en
 - Javascript
 - Java
 - HTML - CSS
-- MySQL
-- Python
